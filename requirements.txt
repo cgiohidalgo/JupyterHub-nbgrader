@@ -1,0 +1,94 @@
+alembic @ file:///tmp/wheelhouse/alembic-1.5.8-py2.py3-none-any.whl
+anyio==2.2.0
+argon2-cffi==20.1.0
+async-generator @ file:///tmp/wheelhouse/async_generator-1.10-py3-none-any.whl
+attrs @ file:///tmp/wheelhouse/attrs-20.3.0-py2.py3-none-any.whl
+Babel==2.9.1
+backcall==0.2.0
+bcrypt==3.2.0
+bleach==3.3.0
+certifi @ file:///tmp/wheelhouse/certifi-2020.12.5-py2.py3-none-any.whl
+certipy @ file:///tmp/wheelhouse/certipy-0.1.3-py3-none-any.whl
+cffi @ file:///tmp/wheelhouse/cffi-1.14.5-cp38-cp38-manylinux1_x86_64.whl
+chardet @ file:///tmp/wheelhouse/chardet-4.0.0-py2.py3-none-any.whl
+cryptography @ file:///tmp/wheelhouse/cryptography-3.4.7-cp36-abi3-manylinux2014_x86_64.whl
+decorator==5.0.7
+defusedxml==0.7.1
+deprecation==2.1.0
+entrypoints @ file:///tmp/wheelhouse/entrypoints-0.3-py2.py3-none-any.whl
+fuzzywuzzy==0.18.0
+greenlet @ file:///tmp/wheelhouse/greenlet-1.0.0-cp38-cp38-manylinux2010_x86_64.whl
+idna @ file:///tmp/wheelhouse/idna-2.10-py2.py3-none-any.whl
+install==1.3.4
+ipykernel==5.5.4
+ipython==7.23.1
+ipython-genutils @ file:///tmp/wheelhouse/ipython_genutils-0.2.0-py2.py3-none-any.whl
+ipywidgets==7.6.3
+jedi==0.18.0
+Jinja2 @ file:///tmp/wheelhouse/Jinja2-2.11.3-py2.py3-none-any.whl
+json5==0.9.5
+jsonschema @ file:///tmp/wheelhouse/jsonschema-3.2.0-py2.py3-none-any.whl
+jupyter==1.0.0
+jupyter-client==6.1.12
+jupyter-console==6.4.0
+jupyter-core==4.7.1
+jupyter-packaging==0.10.1
+jupyter-server==1.6.4
+jupyter-telemetry @ file:///tmp/wheelhouse/jupyter_telemetry-0.1.0-py3-none-any.whl
+jupyterhub @ file:///tmp/wheelhouse/jupyterhub-1.4.0-py3-none-any.whl
+-e git+https://github.com/jupyterhub/nativeauthenticator.git@1edfaa686d7a5bab10c748cd5542bbe55f96fce1#egg=jupyterhub_nativeauthenticator
+jupyterlab==3.0.14
+jupyterlab-pygments==0.1.2
+jupyterlab-server==2.5.0
+jupyterlab-widgets==1.0.0
+Mako @ file:///tmp/wheelhouse/Mako-1.1.4-py2.py3-none-any.whl
+MarkupSafe @ file:///tmp/wheelhouse/MarkupSafe-1.1.1-cp38-cp38-manylinux2010_x86_64.whl
+matplotlib-inline==0.1.2
+mistune==0.8.4
+nbclassic==0.2.7
+nbclient==0.5.3
+nbconvert==5.6.1
+nbformat==5.1.3
+nbgrader==0.6.1
+nest-asyncio==1.5.1
+notebook==6.3.0
+oauthlib @ file:///tmp/wheelhouse/oauthlib-3.1.0-py2.py3-none-any.whl
+onetimepass==1.0.1
+packaging==20.9
+pamela @ file:///tmp/wheelhouse/pamela-1.0.0-py2.py3-none-any.whl
+pandocfilters==1.4.3
+parso==0.8.2
+pexpect==4.8.0
+pickleshare==0.7.5
+prometheus-client @ file:///tmp/wheelhouse/prometheus_client-0.10.1-py2.py3-none-any.whl
+prompt-toolkit==3.0.18
+ptyprocess==0.7.0
+pycparser @ file:///tmp/wheelhouse/pycparser-2.20-py2.py3-none-any.whl
+pycurl==7.43.0.2
+Pygments==2.9.0
+pyOpenSSL @ file:///tmp/wheelhouse/pyOpenSSL-20.0.1-py2.py3-none-any.whl
+pyparsing==2.4.7
+pyrsistent @ file:///tmp/wheelhouse/pyrsistent-0.17.3-cp38-cp38-linux_x86_64.whl
+python-dateutil @ file:///tmp/wheelhouse/python_dateutil-2.8.1-py2.py3-none-any.whl
+python-editor @ file:///tmp/wheelhouse/python_editor-1.0.4-py3-none-any.whl
+python-json-logger @ file:///tmp/wheelhouse/python_json_logger-2.0.1-py34-none-any.whl
+pytz==2021.1
+pyzmq==22.0.3
+qtconsole==5.1.0
+QtPy==1.9.0
+requests @ file:///tmp/wheelhouse/requests-2.25.1-py2.py3-none-any.whl
+ruamel.yaml @ file:///tmp/wheelhouse/ruamel.yaml-0.17.4-py3-none-any.whl
+ruamel.yaml.clib @ file:///tmp/wheelhouse/ruamel.yaml.clib-0.2.2-cp38-cp38-manylinux1_x86_64.whl
+Send2Trash==1.5.0
+six @ file:///tmp/wheelhouse/six-1.15.0-py2.py3-none-any.whl
+sniffio==1.2.0
+SQLAlchemy==1.3.0
+terminado==0.9.4
+testpath==0.4.4
+tomlkit==0.7.0
+tornado @ file:///tmp/wheelhouse/tornado-6.1-cp38-cp38-manylinux2010_x86_64.whl
+traitlets @ file:///tmp/wheelhouse/traitlets-5.0.5-py3-none-any.whl
+urllib3 @ file:///tmp/wheelhouse/urllib3-1.26.4-py2.py3-none-any.whl
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.1
